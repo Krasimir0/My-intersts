@@ -1,0 +1,42 @@
+header li {
+  float: left;
+}
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: rgb(30, 210, 69);
+}
+
+li a:hover {
+  background-color: #111;  
+}
+
+h1 {
+  text-align: center;
+  padding: 14px;
+}
+
+p {
+  text-align: center;
+  padding: 50px;
+}
+ol {
+  list-style-position: inside;
+}
+form{
+  text-align: center;
+}
+section li {
+  text-align: center;
+  list-style-position: inside;
+}
